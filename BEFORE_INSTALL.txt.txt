@@ -1,0 +1,12 @@
+Welcome to the Translator App Installation
+
+Thank you for choosing Translator App. This application is designed to provide you with efficient and accurate translations in multiple languages.
+
+Before you proceed with the installation, please note the following:
+
+1. **License Agreement**: By installing this software, you agree to the terms and conditions outlined in the attached LICENSE file.
+2. **System Requirements**: Make sure your system meets the minimum requirements for smooth operation.
+3. **Privacy**: This software does not collect or share your personal data. It requires an active internet connection to fetch translations.
+4. **Support**: For any assistance, please contact the developer at mohannadalmageedy013@gmail.com.
+
+Click "Next" to continue with the installation.
